@@ -6,6 +6,7 @@
 SQL · Excel · Power BI · Python (pandas) · C#
 
 ## Projects
+- [sparkio-showcase](https://github.com/aviadmerlin/sparkio-showcase) — CRM for event-industry businesses, with multi-tenant database design
 - [TennisVoiceScore](https://github.com/aviadmerlin/TennisVoiceScore) — hands-free iOS tennis scoring app, built in Swift
 
 ## Contact
